@@ -16,9 +16,9 @@ Given `[1, 2, 3]` and a desired value of `7`
 
 Possible results
 
-1+2+3 = 6
-1+2*3 = 7
-1*2*3 = 6
-1*2+3 = 5
+    1+2+3 = 6
+    1+2*3 = 7
+    1*2*3 = 6
+    1*2+3 = 5
 
 The ouput `1+2*3` is our solution.
