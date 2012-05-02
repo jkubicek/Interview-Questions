@@ -11,6 +11,7 @@ Given an array of numbers, insert a `+` or `*` between each item in such a way t
 equals a given value.
 
 *Example*
+
 Given `[1, 2, 3]` and a desired value of `7`
 
 Possible results
